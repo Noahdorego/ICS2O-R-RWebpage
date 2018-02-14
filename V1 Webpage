@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Input Devices</title>
+    </head>
+    <style>
+        
+        .title {
+            font-family: monospace;
+            text-align: center;
+            background-color: rgb(182, 219, 215);
+            border: groove rgb(136, 144, 148)5px;
+            font-size: 40px;
+        }
+        
+        .image {
+            border: solid;
+        }
+        
+        .subtitle {
+            font-family: monospace;
+            text-align: center;
+            background-color: rgb(182, 219, 215);
+            border: groove rgb(136, 144, 148)5px;
+            font-size: 30px;
+        }
+        
+    </style>
+    <body>
+    <h1 class="title"> Input Devices</h1>
+    
+    
+    
+    <img class="image" src="https://www.computertaleem.com/wp-content/uploads/2017/03/input-devices.png" width="200" alt="Several Input Devices">
+    
+    <p>
+- Describe the basic functionality of your piece of hardware. <br>
+- What makes a good (insert name of hardware piece here) ? <br>
+- What should you look for when buying one?<br> 
+- What if you are on a budget? </p>
+
+    <h2 class="subtitle"> Functionality: </h2>
+
+
+    </body>
+</html>
