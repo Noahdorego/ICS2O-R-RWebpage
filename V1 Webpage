@@ -5,6 +5,10 @@
         <title>Input Devices</title>
     </head>
     <style>
+    
+        body {
+            background-color: rgb(174, 197, 217);
+        }
         
         .title {
             font-family: monospace;
@@ -16,6 +20,7 @@
         
         .image {
             border: solid;
+            float: right;
         }
         
         .subtitle {
@@ -26,9 +31,14 @@
             font-size: 30px;
         }
         
+        #box {
+            margin-left: 150px;
+            width: 300px;
+        }
+        
     </style>
     <body>
-    <h1 class="title"> Input Devices</h1>
+    <h1 class="title"> Input Devices (H8)</h1>
     
     
     
@@ -41,6 +51,9 @@
 - What if you are on a budget? </p>
 
     <h2 class="subtitle"> Functionality: </h2>
+    
+    <div id="box"><p>
+    Input devices are a type of device that <em>inputs</em> data into an information processing system (such as a computer). Some examples of input devices include a key</p></div>
 
 
     </body>
