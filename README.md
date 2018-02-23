@@ -94,6 +94,15 @@
         <a href="https://www.amazon.com/Mice-Keyboards-Computer-Add-Ons-Computers/b?ie=UTF8&node=172493">Amazon</a>
         
     </p></div>
+    
+    <!-- hitwebcounter Code START -->
+<a href="http://www.hitwebcounter.com" target="_blank">
+<img src="http://hitwebcounter.com/counter/counter.php?page=6904246&style=0024&nbdigits=4&type=page&initCount=0" title="good hits" Alt="good hits"   border="0" >
+</a>                                        <br/>
+                                        <!-- hitwebcounter.com --><a href="http://www.hitwebcounter.com" title="" 
+                                        target="_blank" style="font-family: ; 
+                                        font-size: px; color: #; text-decoration:  ;"><>                                        </>
+                                        </a>   
 
     </body>
 </html>
