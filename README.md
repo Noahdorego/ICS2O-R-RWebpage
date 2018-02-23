@@ -103,6 +103,15 @@
                                         target="_blank" style="font-family: ; 
                                         font-size: px; color: #; text-decoration:  ;"><>                                        </>
                                         </a>   
+                                        
+    <!-- hitwebcounter Code START -->
+<a href="http://www.hitwebcounter.com" target="_blank">
+<img src="http://hitwebcounter.com/counter/counter.php?page=6904250&style=0024&nbdigits=4&type=ip&initCount=0" title="good hits" Alt="good hits"   border="0" >
+</a>                                        <br/>
+                                        <!-- hitwebcounter.com --><a href="http://www.hitwebcounter.com" title="" 
+                                        target="_blank" style="font-family: ; 
+                                        font-size: px; color: #; text-decoration:  ;"><>                                        </>
+                                        </a>   
 
     </body>
 </html>
