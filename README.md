@@ -60,7 +60,7 @@
 
     <h2 class="subtitle"> Definition: </h2>
     
-    <div id="box"><p>
+    <div id="scroll_box"><p>
     Input devices are a type of device that <em>inputs</em> data into an information processing system (such as a computer). Some examples of input devices include a keyboard, a computer mouse, a scanner, and a microphone. Input devices are usually attachments that don't work on their own, but can let you add / access more information on the main device. They are the opposite of output devices(devices that take data from the computer. Some devices can act as both input & output devices, such as a USB. For more detail info on input devices, go to <a href="https://en.wikipedia.org/wiki/Input_device"> Wikipedia. </a> </p></div>
     
     
